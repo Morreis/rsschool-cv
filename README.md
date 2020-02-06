@@ -1,2 +1,1 @@
-# rsschool-cv
-GIT&amp;MARKDOWN
+https://morreis.github.io/rsschool-cv/cv
