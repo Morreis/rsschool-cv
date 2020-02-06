@@ -11,3 +11,7 @@
 5. 	##CODE examples: ##
 6. 	##Experience: ##
 	I don't have proffesional expirience
+7. 	##EDUCATION: ##
+	####Bachelor degree:#### The Academy of Public Administration under the aegis of the President of the Republic of Belarus – Management of Information Technologies – 2017
+8. 	##ENGLISH: ##
+	Writing : B1, Spoken : B2
