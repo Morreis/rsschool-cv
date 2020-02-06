@@ -6,3 +6,8 @@
 	Telegram: @Morreis;
 3. 	##SUMMARY: ##
 	Started learning HTML+CSS when i was studying in The Academy of Public Administration under the aegis of the President of the Republic of Belarus in 2017. I'm self-motivated, fast-lerner person. Passed courses on [Codecademy](https://www.codecademy.com/learn) and [HTMLacademy](https://htmlacademy.ru/). My goal is to become a Full stack Front-end developer.
+4. 	##SKILLS: ##
+	HTML, CSS, JavaScript, Jquery, Bootstrap
+5. 	##CODE examples: ##
+6. 	##Experience: ##
+	I don't have proffesional expirience
